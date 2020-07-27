@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "566300768598",
+    "firebase_url": "https://my-project-2bcf4.firebaseio.com",
+    "project_id": "my-project-2bcf4",
+    "storage_bucket": "my-project-2bcf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566300768598:android:633fd0d07468a1c069bef7",
+        "android_client_info": {
+          "package_name": "com.inw24.coronavirus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2PQwY7NeeO3xxpUEzqFxxxhvudFNe9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566300768598:android:3ed8431a7088e70569bef7",
+        "android_client_info": {
+          "package_name": "com.inw24.multipurposeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2PQwY7NeeO3xxpUEzqFxxxhvudFNe9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566300768598:android:66c04b4354a5ba2a",
+        "android_client_info": {
+          "package_name": "com.inw24.price"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2PQwY7NeeO3xxpUEzqFxxxhvudFNe9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566300768598-pq590aqe4mjltj4q1hasmnole2j3rdqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
